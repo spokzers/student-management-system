@@ -1,1 +1,3 @@
-# student-management-system
+# Student Management System
+
+A system for tution centers
