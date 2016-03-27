@@ -1,0 +1,25 @@
+fees 
+attendance roster
+books 
+sms/email alerts
+report card/marks
+
+classes
+cno
+name
+center
+location
+timings
+
+fees
+sid
+sname
+credit
+debit
+blnc
+
+attendance
+sid
+sname
+ispresent?
+late
